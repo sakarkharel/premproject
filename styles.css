@@ -1,0 +1,150 @@
+.cardioOne {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 60px;
+    color : beige;
+    background-color: #765ac4;
+    padding: 50px;
+    width: auto;
+
+}
+
+.heartimage{
+    text-align: center;
+    width: 100%;
+}
+
+.mutu{
+    max-width: 100%;
+    height: auto;
+
+}
+
+.staff{
+    font-family: "Anton SC", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    color : beige;
+    background-color: #4596af;
+    padding: 20px;
+    width: auto;
+    border: 5px;
+    padding: 5px;
+    margin: 0%;
+
+}
+
+.doctors{
+    display : flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-between;
+    font-family:  "Anton SC", sans-serif;
+    font-weight: Medium;
+    font-style: normal;
+    font-size: 18px;
+    color: blue;
+
+}
+
+h2{
+    font-size: 50px;
+    align-items: center;
+    color: rgb(163, 30, 52);
+    font-family:  "Anton SC", sans-serif;
+    text-align: center;
+}
+
+.form{
+    grid-column: 3;
+    grid-row: 2/5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: medium;
+    
+}
+
+
+
+.dimag{
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.neuroOne {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 60px;
+    color : beige;
+    background-color: #765ac4;
+    padding: 50px;
+    width: auto;
+
+}
+
+
+.dimagDoctors{
+    display : flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.dimagimage{
+    text-align: center;
+    width: 100%;
+}
+
+
+.haddi{
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+.haddiimage{
+    text-align: center;
+    width: 100%;
+}
+
+
+.haddiDoctors{
+    display : flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.foksoimage{
+    text-align: center;
+    width: 100%;
+}
+
+
+.foksoDoctors{
+    display : flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.fokso{
+    max-width: 100%;
+    height: auto;
+
+}
